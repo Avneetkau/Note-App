@@ -29,4 +29,5 @@ npm install
 npm start
 Visit the app at: http://localhost:3000
 
-🌐 Live Demo
+## 🌐 Live Demo
+https://astounding-lebkuchen-835094.netlify.app/
