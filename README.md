@@ -19,7 +19,7 @@ A simple and intuitive Notes Application built using React.js and JavaScript. Th
 ## ⚙️ Getting Started (Run Locally)
 
 **1. Clone the Repository**
-git clone https://github.com/your-username/notes-app.git
+git clone https://github.com/Avneetkau/Note-App
 cd notes-app
 
 **3. Install Dependencies**
